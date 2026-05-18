@@ -1,5 +1,5 @@
 # Mini-Projects
-In this repo I will be documenting my mini projects each project will take 2 weeks max as I will learning new concepts and the same time working on the project in my free time.
+In this repo I will be documenting my mini projects. *** PS: Each project will take 2 weeks max as I be will learning new concepts and working on the project in my free time (personal commitments).
 
 Copyright (c) 2026 Washanda Anani
 
